@@ -3,7 +3,7 @@ Assembly Picture Sliding Project
 This project designed for the Microprocessor Systems lecture in Istanbul Technical University 2022 Spring term.
 
 In this project we have a picture RGB datas inside image.c file and assembly code that makes move right down and left in 320x320 LCD screen.
-
+ ![Alt text](https://imgur.com/a/TBf9JRq "Optional title")
 To run this project I use Keil.
 Keil steps for the running project.
   1. Download Keil from official ARM web site.
