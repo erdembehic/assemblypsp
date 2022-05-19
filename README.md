@@ -4,7 +4,9 @@ This project designed for the Microprocessor Systems lecture in Istanbul Technic
 
 In this project we have a picture RGB datas inside image.c file and assembly code that makes move right down and left in 320x320 LCD screen.
 
-<a href="https://imgbox.com/dTuqWsLZ" target="_blank"><img src="https://thumbs2.imgbox.com/61/e7/dTuqWsLZ_t.png" alt="image host"/></a>
+
+<a href="https://imgbox.com/dTuqWsLZ" target="_blank"><img src="https://thumbs2.imgbox.com/61/e7/dTuqWsLZ_t.png" alt="image host"/></a>](https://imgbox.com/YMseu6JI)
+
 To run this project I use Keil.
 Keil steps for the running project.
   1. Download Keil from official ARM web site.
